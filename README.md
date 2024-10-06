@@ -5,7 +5,8 @@
             Landing page 
         </title>
         <link rel="stylesheet" href="landing.css" type="text/css">
-        <style> body {
+        <style> 
+            body {
     margin: 0;
     padding: 0;
     text-align: center;
@@ -63,6 +64,7 @@ footer {
     text-align: center;
     padding: 10px 0;
 }</style>
+    </head>
         <body>
             <header>
                 <h1>Welcome to Our Service</h1>
@@ -83,5 +85,4 @@ footer {
                 @2024 Dynamic Landing Page.All rights reserved 
             </footer>
         </body>
-    </head>
 </html>
