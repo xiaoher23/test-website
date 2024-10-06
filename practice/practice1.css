@@ -1,0 +1,49 @@
+table, th, td {
+    border: solid 1px pink;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+section{
+    display: inline-block;
+    text-align: center;
+}
+.user{
+    text-align: center;
+    background-color: pink;
+    position: relative;
+    display: inline-block;
+    color: blue;
+}
+.user:hover {
+cursor: pointer;
+color: brown;
+font-weight: bold;
+}
+.pass{
+    background-color: violet;
+    display: inline-block;
+    color: beige;
+    position: static;
+ 
+}
+.pass:hover{
+    cursor: pointer;
+    color: black;
+    font-style: italic;
+    
+}
+.text{
+    padding-top: 10px;
+}
+button{
+    display: inline-block;
+    text-align: center;
+}
+.butt{
+   font-size: 20px;
+   border: solid black 1px ;
+   padding: 10px;
+   margin: 20px;
+   display: inline-block;
+   text-align: center;
+}
